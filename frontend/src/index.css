@@ -11,8 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+/*Estilo del encabezado*/
 header {
   background-color: #404040;
+  padding: 1rem; /*16 pixels*/
 }
 header a {
   color: #ffff;
